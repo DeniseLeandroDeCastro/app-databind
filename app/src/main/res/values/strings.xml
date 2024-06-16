@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppDatabind</string>
+
+    <string name="likes">Likes</string>
+    <string name="textview">TextView</string>
+    <string name="profile_name">NOME</string>
+    <string name="profile_lastname">SOBRENOME</string>
+    <string name="last_name_label">ÚLTIMO NOME</string>
+    <string name="name_label">Nome</string>
+    <string name="profile_avatar_cd">Perfil</string>
+    <string name="like">Like</string>
+</resources>
